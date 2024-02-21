@@ -13,6 +13,3 @@
 
 **Enter Initials**
 ![Enter Initials](assets/screenshots/enter-intials.png)
-
-**Highscores**
-![Highscores](assets/screenshots/highscores.png)
